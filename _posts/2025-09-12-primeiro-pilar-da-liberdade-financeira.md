@@ -3,7 +3,7 @@ title: "Primeiro Pilar da Liberdade Financeira"
 categories:
   - Pilares da Liberdade Financeira
 tags:
-  - Módulo 2
+  - Primeiro Pilar da Liberdade Financeira
 image:
   feature: /assets/images/primeiro-pilar.webp
   thumb: /assets/images/primeiro-pilar.webp

@@ -3,7 +3,7 @@ title: "Terceiro Pilar da Liberdade Financeira"
 categories:
   - Pilares da Liberdade Financeira
 tags:
-  - Módulo 2
+  - Terceiro Pilar da Liberdade Financeira
 image:
   feature: /assets/images/terceiro-pilar.webp
   thumb: /assets/images/terceiro-pilar.webp

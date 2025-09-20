@@ -3,7 +3,7 @@ title: "Segundo Pilar da Liberdade Financeira"
 categories:
   - Pilares da Liberdade Financeira
 tags:
-  - Módulo 2
+  - Segundo Pilar da Liberdade Financeira
 image:
   feature: /assets/images/segundo-pilar.webp
   thumb: /assets/images/segundo-pilar.webp

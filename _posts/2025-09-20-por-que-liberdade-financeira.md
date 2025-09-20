@@ -3,7 +3,7 @@ title: "Por que liberdade financeira?"
 categories:
   - Sua Liberdade Financeira
 tags:
-  - Módulo 1
+  - Por que liberdade financeira?
 image:
   feature: /assets/images/liberdade-financeira.webp
   thumb: /assets/images/liberdade-financeira.webp

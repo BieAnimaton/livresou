@@ -3,7 +3,7 @@ title: "Os Quatro Pilares da Liberdade Financeira"
 categories:
   - Pilares da Liberdade Financeira
 tags:
-  - Módulo 2
+  - Os Quatro Pilares da Liberdade Financeira
 image:
   feature: /assets/images/os-quatro-pilares.webp
   thumb: /assets/images/os-quatro-pilares.webp
