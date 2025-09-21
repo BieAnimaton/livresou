@@ -1,9 +1,9 @@
 ---
-title: "O que pensam Investidores de Sucesso"
+title: "Mentalidade Investidora - O que pensam Investidores de Sucesso"
 categories:
   - Mentalidade Investidora
 tags:
-  - O que pensam Investidores de Sucesso
+  - Mentalidade Investidora - O que pensam Investidores de Sucesso
 image:
   feature: /assets/images/mentalidade-investidora.webp
   thumb: /assets/images/mentalidade-investidora.webp

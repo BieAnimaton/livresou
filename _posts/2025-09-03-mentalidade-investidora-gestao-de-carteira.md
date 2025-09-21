@@ -1,9 +1,9 @@
 ---
-title: "Gestão de Carteira"
+title: "Mentalidade Investidora - Gestão de Carteira"
 categories:
   - Mentalidade Investidora
 tags:
-  - Gestão de Carteira
+  - Mentalidade Investidora - Gestão de Carteira
 image:
   feature: /assets/images/mentalidade-investidora.webp
   thumb: /assets/images/mentalidade-investidora.webp

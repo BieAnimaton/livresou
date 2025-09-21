@@ -1,9 +1,9 @@
 ---
-title: "Princípios e Filosofia"
+title: "Mentalidade Investidora - Princípios e Filosofia"
 categories:
   - Mentalidade Investidora
 tags:
-  - Princípios e Filosofia
+  - Mentalidade Investidora - Princípios e Filosofia
 image:
   feature: /assets/images/mentalidade-investidora.webp
   thumb: /assets/images/mentalidade-investidora.webp
